@@ -1,4 +1,4 @@
-module github.com/dwmunster/rocket-adapter
+module github.com/davestephens/rocket-adapter
 
 go 1.13
 
